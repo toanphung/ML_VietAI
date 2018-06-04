@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2498e3e9-3d1e-4034-8932-c394eae30536" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/vietai-assignment1/data/my_params_logistic_np" beforeDir="false" afterPath="$PROJECT_DIR$/vietai-assignment1/data/my_params_logistic_np" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vietai-assignment1/logistic_np.py" beforeDir="false" afterPath="$PROJECT_DIR$/vietai-assignment1/logistic_np.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ML_VietAI$Linear_Regression.coverage" NAME="Linear Regression Coverage Results" MODIFIED="1525257248510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_1" />
+    <SUITE FILE_PATH="coverage/ML_VietAI$b.coverage" NAME="b Coverage Results" MODIFIED="1525921627633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ML_VietAI$a.coverage" NAME="a Coverage Results" MODIFIED="1523764707520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ML_VietAI$logistic_tf.coverage" NAME="logistic_tf Coverage Results" MODIFIED="1526135900433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vietai-assignment1" />
+    <SUITE FILE_PATH="coverage/ML_VietAI$Logistic_Regression.coverage" NAME="Logistic Regression Coverage Results" MODIFIED="1525929452456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment_1" />
+    <SUITE FILE_PATH="coverage/ML_VietAI$logistic_np.coverage" NAME="logistic_np Coverage Results" MODIFIED="1526125841380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vietai-assignment1" />
+    <SUITE FILE_PATH="coverage/ML_VietAI$softmax_tf.coverage" NAME="softmax_tf Coverage Results" MODIFIED="1526135903298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vietai-assignment1" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="dataset.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2-CNN-Tensorflow/Lab2-CNN-Tensorflow/dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+              <folding>
+                <element signature="e#43#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logistic_np.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vietai-assignment1/logistic_np.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="288" column="10" selection-start-line="288" selection-start-column="10" selection-end-line="288" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logistic_tf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vietai-assignment1/logistic_tf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+              <folding>
+                <element signature="e#84#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="softmax_np.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vietai-assignment1/softmax_np.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2205">
+              <caret line="147" column="72" selection-start-line="147" selection-start-column="64" selection-end-line="147" selection-end-column="72" />
+              <folding>
+                <element signature="e#55#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vietai-assignment1/util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="softmax_tf.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vietai-assignment1/softmax_tf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>concaten</find>
+      <find>dim</find>
+      <find>keepdims</find>
+      <find>conv</find>
+      <find>1d</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/a.py" />
+        <option value="$PROJECT_DIR$/Assignment_1/11.py" />
+        <option value="$PROJECT_DIR$/machinelearningcoban.com/Linear Regression.py" />
+        <option value="$PROJECT_DIR$/Assignment_1/Linear Regression.py" />
+        <option value="$PROJECT_DIR$/b.py" />
+        <option value="$PROJECT_DIR$/Assignment_1/Logistic Regression.py" />
+        <option value="$PROJECT_DIR$/Lab1/Lab1_Sol.ipynb" />
+        <option value="$PROJECT_DIR$/vietai-assignment1/logistic_tf.py" />
+        <option value="$PROJECT_DIR$/vietai-assignment1/softmax_tf.py" />
+        <option value="$PROJECT_DIR$/vietai-assignment1/softmax_np.py" />
+        <option value="$PROJECT_DIR$/vietai-assignment2/gradient_check.py" />
+        <option value="$PROJECT_DIR$/vietai-assignment2/activation_np.py" />
+        <option value="$PROJECT_DIR$/Lab2-CNN-Tensorflow/Lab2-CNN-Tensorflow/dataset.py" />
+        <option value="$PROJECT_DIR$/vietai-assignment2/dnn_np.py" />
+        <option value="$PROJECT_DIR$/vietai-assignment2/dnn_tf.py" />
+        <option value="$PROJECT_DIR$/Lab2-CNN-Tensorflow/Lab2-CNN-Tensorflow/train.py" />
+        <option value="$PROJECT_DIR$/vietai-assignment1/logistic_np.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1297" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ML_VietAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ML_VietAI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ML_VietAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ML_VietAI" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ML_VietAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ML_VietAI" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ML_VietAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ML_VietAI" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-CNN-Tensorflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ML_VietAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ML_VietAI" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-CNN-Tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2-CNN-Tensorflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ML_VietAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ML_VietAI" type="462c0819:PsiDirectoryNode" />
+              <item name="vietai-assignment1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ML_VietAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ML_VietAI" type="462c0819:PsiDirectoryNode" />
+              <item name="vietai-assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ML_VietAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ML_VietAI" type="462c0819:PsiDirectoryNode" />
+              <item name="vietai-assignment2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Web" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vietai-assignment1/data" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Lab1" />
+      <recent name="$PROJECT_DIR$/Assignment_1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Assignment_1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="Linear Regression" type="PythonConfigurationType" factoryName="Python">
+      <module name="ML_VietAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_1/Linear Regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dnn_np" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML_VietAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vietai-assignment2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vietai-assignment2/dnn_np.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dnn_tf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML_VietAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vietai-assignment2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vietai-assignment2/dnn_tf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="logistic_np" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML_VietAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vietai-assignment1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vietai-assignment1/logistic_np.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="softmax_np" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML_VietAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vietai-assignment1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vietai-assignment1/softmax_np.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML_VietAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab2-CNN-Tensorflow/Lab2-CNN-Tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab2-CNN-Tensorflow/Lab2-CNN-Tensorflow/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML_VietAI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Linear Regression" />
+      <item itemvalue="Python.logistic_np" />
+      <item itemvalue="Python.softmax_np" />
+      <item itemvalue="Python.dnn_np" />
+      <item itemvalue="Python.dnn_tf" />
+      <item itemvalue="Python.train" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.dnn_tf" />
+        <item itemvalue="Python.dnn_np" />
+        <item itemvalue="Python.softmax_np" />
+        <item itemvalue="Python.logistic_np" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2498e3e9-3d1e-4034-8932-c394eae30536" name="Default" comment="" />
+      <created>1523706531441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523706531441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50266564" side_tool="true" weight="0.40536514" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32831326" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298193" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32831326" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25211376" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733436" weight="0.40361446" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32935917" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25211376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32831326" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32935917" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733436" weight="0.40361446" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32831326" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50266564" side_tool="true" weight="0.40536514" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Assignment_1/Linear Regression.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vietai-assignment1/logistic_np.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vietai-assignment1/logistic_np.py</url>
+          <line>291</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vietai-assignment1/softmax_np.py</url>
+          <line>163</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vietai-assignment1/logistic_np.py</url>
+          <line>265</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vietai-assignment1/logistic_tf.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vietai-assignment2/dnn_np.py</url>
+          <line>412</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vietai-assignment2/dnn_np.py</url>
+          <line>366</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lab2-CNN-Tensorflow/Lab2-CNN-Tensorflow/dataset.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vietai-assignment2/dnn_np.py</url>
+          <line>382</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="112" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="w" />
+        <watch expression="self" />
+        <watch expression="w_grad" />
+        <watch expression="x_test[0:1] " />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="1777" column="4" selection-start-line="1777" selection-start-column="4" selection-end-line="1777" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vietai-assignment1/unit_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="133" column="8" lean-forward="true" selection-start-line="133" selection-start-column="8" selection-end-line="133" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/numpy/core/umath.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/time.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/numpy/lib/npyio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-471">
+          <caret line="1142" column="4" selection-start-line="1142" selection-start-column="4" selection-end-line="1142" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/gen_math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="3882" column="4" selection-start-line="3882" selection-start-column="4" selection-end-line="3882" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="1354" column="4" selection-start-line="1354" selection-start-column="4" selection-end-line="1354" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/scipy/linalg/tests/test_decomp.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/builtins.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/training/gradient_descent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/training/optimizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="349" column="6" selection-start-line="349" selection-start-column="6" selection-end-line="349" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="796" column="6" selection-start-line="796" selection-start-column="6" selection-end-line="796" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/tensorflow/python/client/session.py" />
+    <entry file="file://$PROJECT_DIR$/Lab1/Lab1_Sol.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/tensorflow/python/ops/gen_math_ops.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/tensorflow/python/framework/sparse_tensor.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/tensorflow/python/ops/gen_array_ops.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/tensorflow/python/ops/array_ops.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/matplotlib/pyplot.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1466454094/numpy/core/umath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="3873" column="4" lean-forward="true" selection-start-line="3873" selection-start-column="4" selection-end-line="3873" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1466454094/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6173" column="8" selection-start-line="6173" selection-start-column="8" selection-end-line="6173" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/numpy/core/fromnumeric.py" />
+    <entry file="file://$PROJECT_DIR$/vietai-assignment2/gradient_check.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1466454094/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="7244" column="4" selection-start-line="7244" selection-start-column="4" selection-end-line="7244" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1466454094/numpy/random/mtrand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="1596" column="4" selection-start-line="1596" selection-start-column="4" selection-end-line="1596" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="310" selection-start-line="310" selection-end-line="310" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/tensorflow/python/estimator/canned/dnn.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/tensorflow/python/estimator/estimator.py" />
+    <entry file="file://$PROJECT_DIR$/vietai-assignment2/data/my_params_dnn.tf/graph.pbtxt" />
+    <entry file="file://$PROJECT_DIR$/vietai-assignment2/util.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/tensorflow/python/estimator/inputs/numpy_io.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/tensorflow/python/feature_column/feature_column.py" />
+    <entry file="file:///usr/lib/python3.5/pdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="1577" column="4" selection-start-line="1577" selection-start-column="4" selection-end-line="1577" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/tensorflow/python/ops/gen_nn_ops.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/tensorflow/python/ops/variables.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/tensorflow/python/ops/nn_ops.py" />
+    <entry file="file://$PROJECT_DIR$/vietai-assignment2/activation_np.py" />
+    <entry file="file://$PROJECT_DIR$/vietai-assignment2/dnn_tf.py" />
+    <entry file="file://$PROJECT_DIR$/vietai-assignment1/data/my_params_softmax_np">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6033" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/numpy/lib/npyio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-492">
+          <caret line="1142" column="4" selection-start-line="1142" selection-start-column="4" selection-end-line="1142" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-CNN-Tensorflow/Lab2-CNN-Tensorflow/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vietai-assignment1/data/my_params_logistic_np">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5115">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vietai-assignment2/dnn_np.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5864" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2-CNN-Tensorflow/Lab2-CNN-Tensorflow/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+          <folding>
+            <element signature="e#43#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vietai-assignment1/logistic_np.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="288" column="10" selection-start-line="288" selection-start-column="10" selection-end-line="288" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vietai-assignment1/logistic_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+          <folding>
+            <element signature="e#84#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vietai-assignment1/softmax_np.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="147" column="72" selection-start-line="147" selection-start-column="64" selection-end-line="147" selection-end-column="72" />
+          <folding>
+            <element signature="e#55#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vietai-assignment1/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vietai-assignment1/softmax_tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

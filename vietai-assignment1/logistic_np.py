@@ -2,7 +2,6 @@
 This file is for two-class vehicle classification
 Author: Kien Huynh
 """
-
 import numpy as np
 import matplotlib.pyplot as plt
 from util import get_vehicle_data
